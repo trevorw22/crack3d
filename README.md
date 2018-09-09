@@ -3,7 +3,7 @@
 'crack3d' is my MD5 hash cracker written in Python 2. 
 It requires the md5 library which can be installed with pip install md5, or pip3 install md5. 
 
-Here is an example hash below for testing: 
+Here is an example hash for testing: 
 42f749ade7f9e195bf475f37a44cafcb
 
 Here is a website that generates hashes so you can test your own passwords: 
