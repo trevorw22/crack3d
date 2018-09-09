@@ -1,6 +1,6 @@
 # crack3d
 
-'crack3d' is my MD5 hash cracker written in Python 2. 
+crack3d.py is my MD5 hash cracker written in Python 2. 
 It requires the md5 library which can be installed with pip install md5, or pip3 install md5. 
 
 Here is an example hash for testing: 
